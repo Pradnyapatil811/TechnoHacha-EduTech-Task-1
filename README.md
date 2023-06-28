@@ -1,1 +1,1 @@
-# TechnoHacha-EduTech-Task-1
+# TechnoHacks-EduTech-Task-1
